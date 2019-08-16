@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    font-family: tahoma;
+    color: #666;
+}
+
+#total{
+    width: 1000px;
+    margin: auto;
+}
+
+#logo{
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+    background-color: #222;
+    height: 40px;
+    
+}
+
+#menu a{
+    color: #fff;
+    text-decoration: none;
+    margin: 0 35px;
+}
