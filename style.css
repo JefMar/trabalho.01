@@ -4,6 +4,14 @@ body{
     color: #666;
 }
 
+.left{
+    float: left
+}
+
+.right{
+    float: right
+}
+
 #total{
     width: 1000px;
     margin: auto;
