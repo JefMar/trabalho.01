@@ -115,7 +115,13 @@ footer{
 }
 
 @media screen and (min-width:641px) and (max-width:768px) {
+    
     #anuncio{
         display: block;
+    }
+    
+    #menu a{
+        font-size: 14px;
+        margin:0 25px;
     }
 }
