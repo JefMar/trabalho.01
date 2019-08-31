@@ -82,6 +82,15 @@ footer{
     color: #999;
 }
 
+#anuncio{
+    width: 100%;
+    background-color: orange;
+    color: whitesmoke;
+    padding: 10px 0;
+    margin-bottom: 30px;
+    text-align: center;
+    display: none;
+}
 
 @media screen and (max-width: 640px){
     .texto1, .texto2{
@@ -105,12 +114,4 @@ footer{
     }
 }
 
-#anuncio{
-    width: 100%;
-    background-color: orange;
-    color: whitesmoke;
-    padding: 10px 0;
-    margin-bottom: 30px;
-    text-align: center;
-    display: none;
-}
+
